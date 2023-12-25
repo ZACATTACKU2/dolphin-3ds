@@ -16,7 +16,7 @@ Please read the [FAQ](https://dolphin-emu.org/docs/faq/) before using Dolphin.
     * Windows (10 or higher).
     * Linux.
     * macOS (10.15 Catalina or higher).
-    * Unix-like systems other than Linux are not officially supported but might work.
+    * Unix-like systems other than Linux or mac os are not officially supported but might work.
 * Processor
     * A CPU with SSE2 support.
     * A modern CPU (3 GHz and Dual Core, not older than 2008) is highly recommended.
